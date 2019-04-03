@@ -238,7 +238,7 @@ h3,h4{
     }
     .item4 {
       grid-row: 2/4;
-      font-size: 7em;
+      font-size: 4em;
       padding-top: 1em;
       padding-bottom: 1em;
       grid-column: 3/4;
@@ -298,7 +298,7 @@ h3,h4{
     }
     .item4 {
       grid-row: 2/4;
-      font-size: 7em;
+      font-size: 4em;
       padding-top: 1em;
       padding-bottom: 1em;
       grid-column: 3/4;
